@@ -12,7 +12,9 @@ It is use/merge with any software, where authentication needed.
 
 Just open a terminal in the folder where your script is located and run the following command:
 
- ``` python reg.py                ```
+ ``` 
+ python reg.py               
+ ```
 
 
 ## 📺 Demo
